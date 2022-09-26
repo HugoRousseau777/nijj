@@ -1,3 +1,27 @@
+.descriptionPanthere, .citation, .citationAuthor, .presentationTexte {
+    font-size: 24px;
+    color: rgb(96, 96, 96);
+    line-height: 100%;
+}
+
+.citation {
+    margin-bottom: 0;
+    font-size: 20px;
+    line-height: 110%;
+}
+
+.citationAuthor {
+    font-size: 20px;
+    margin-top: 0;
+    opacity: 0.8;
+    line-height: 110%;
+}
+
+.presentationTexte {
+    font-size: 22px;
+    opacity: 0.9;
+}
+
 body {
     margin: 0;
     padding: 0;
